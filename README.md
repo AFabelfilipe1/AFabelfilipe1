@@ -85,7 +85,7 @@
   <a href="https://twitter.com/MPllays" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
   </a>
-  <a href="https://discord.com/users/469780607090688011" target="_blank">
+  <a href="https://discord.com/users/seu-id-discord" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
   </a>
   <a href="https://youtube.com/@seu-canal" target="_blank">
@@ -95,12 +95,12 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
   </a>
   <a href="https://twitch.tv/masterpllays" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitch/twitch-original.svg" width="52" height="40" alt="twitch logo" />
   </a>
-  <a href="https://instagram.com/abelfilipecardosocandido" target="_blank">
+  <a href="https://instagram.com/seu-instagram" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
-  <a href="https://facebook.com/abelfilipe.cardosocandido.5" target="_blank">
+  <a href="https://facebook.com/abelfilipe.cardosocandido" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
   </a>
 </div>
